@@ -1,0 +1,3 @@
+test.class
+com/activemq/receiver/MessageReceiver.class
+com/activemq/sender/MessageSender.class
